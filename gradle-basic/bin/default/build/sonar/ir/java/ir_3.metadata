@@ -1,0 +1,6 @@
+com.acme.App#main([Ljava/lang/String;)V
+com.acme.App#instance-init#
+com.acme.App#<init>()V
+==
+println java.io.PrintStream#println(Ljava/lang/String;)V
+getGreeting com.acme.App#getGreeting()Ljava/lang/String;

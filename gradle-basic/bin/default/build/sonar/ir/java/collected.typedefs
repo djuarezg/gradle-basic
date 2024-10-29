@@ -1,0 +1,47 @@
+°
+com.acme.App 
+<init>com.acme.App#<init>()V;
+getGreeting,com.acme.App#getGreeting()Ljava/lang/String;/
+main'com.acme.App#main([Ljava/lang/String;)Vjava.lang.Object<
+java.util.Scanner'
+nextIntjava.util.Scanner#nextInt()IY
+java.io.BufferedReader?
+readLine3java.io.BufferedReader#readLine()Ljava/lang/String;«
+java.util.StringTokenizerH
+nextElement9java.util.StringTokenizer#nextElement()Ljava/lang/Object;D
+	nextToken7java.util.StringTokenizer#nextToken()Ljava/lang/String;<
+java.util.Scanner'
+nextIntjava.util.Scanner#nextInt()IY
+java.io.BufferedReader?
+readLine3java.io.BufferedReader#readLine()Ljava/lang/String;«
+java.util.StringTokenizerH
+nextElement9java.util.StringTokenizer#nextElement()Ljava/lang/Object;D
+	nextToken7java.util.StringTokenizer#nextToken()Ljava/lang/String;<
+java.util.Scanner'
+nextIntjava.util.Scanner#nextInt()IY
+java.io.BufferedReader?
+readLine3java.io.BufferedReader#readLine()Ljava/lang/String;«
+java.util.StringTokenizerH
+nextElement9java.util.StringTokenizer#nextElement()Ljava/lang/Object;D
+	nextToken7java.util.StringTokenizer#nextToken()Ljava/lang/String;<
+java.util.Scanner'
+nextIntjava.util.Scanner#nextInt()IY
+java.io.BufferedReader?
+readLine3java.io.BufferedReader#readLine()Ljava/lang/String;«
+java.util.StringTokenizerH
+nextElement9java.util.StringTokenizer#nextElement()Ljava/lang/Object;D
+	nextToken7java.util.StringTokenizer#nextToken()Ljava/lang/String;<
+java.util.Scanner'
+nextIntjava.util.Scanner#nextInt()IY
+java.io.BufferedReader?
+readLine3java.io.BufferedReader#readLine()Ljava/lang/String;«
+java.util.StringTokenizerH
+nextElement9java.util.StringTokenizer#nextElement()Ljava/lang/Object;D
+	nextToken7java.util.StringTokenizer#nextToken()Ljava/lang/String;<
+java.util.Scanner'
+nextIntjava.util.Scanner#nextInt()IY
+java.io.BufferedReader?
+readLine3java.io.BufferedReader#readLine()Ljava/lang/String;«
+java.util.StringTokenizerH
+nextElement9java.util.StringTokenizer#nextElement()Ljava/lang/Object;D
+	nextToken7java.util.StringTokenizer#nextToken()Ljava/lang/String;
